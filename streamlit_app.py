@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # API base URL (Flask app endpoint)
-API_BASE_URL = "http://127.0.0.1:5000"
+API_BASE_URL = "https://flask-app-mrs.onrender.com"
 
 # Title of the Streamlit app
 st.title('Movie Recommendation System')
