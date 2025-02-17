@@ -74,6 +74,6 @@ Recommendation Functions
 
 
 
-Live Demo :  https://hybrid-model-movie-recommendation-system-canx7ckjx7mmsnsarysk7.streamlit.app/
+Live Demo :  [Movie Recommendation App](https://movie-reccs.streamlit.app/)
 
 
